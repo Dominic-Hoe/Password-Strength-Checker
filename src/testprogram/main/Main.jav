@@ -2,6 +2,12 @@ package testprogram.main;
 
 import java.util.Scanner;
 
+/*
+Password Strength Checker
+
+Part of a progressional task for Peterborough Regional 
+College, Level 3 Computing.
+*/
 public class Main {
 
     private static final String specialCharacters = "!%&*+=";
